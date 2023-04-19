@@ -1,5 +1,5 @@
 #PAT
-$AzureDevOpsPAT = "d2ufqp6qirp2js3nxjyq5mjgf3whofodizb72lembt73pvd7rbvq"
+$AzureDevOpsPAT = ""
 
 #Organisation Name
 $OrganizationName = "TPGlobal-TAP"
